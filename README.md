@@ -1,5 +1,15 @@
-Recette pour créer un commentaire:
+Recipe to create a commit on GitHub
 
-Ajouter le nouveau fichier dans le répertoire avec git add nomdufichier
-Faire un commentaire sur votre transformation avec la commande git commit -m "shdouhzof"
-Envoyer le tout sur Github avec la commande git push -u origin master 
+-Open your shell
+
+-Add the new file with the command git add nomdufichier
+
+-Make a description of your changes in a new commit with the command git commit -m "blablabla"
+
+-Send all to your Github project with git push -u origin master
+
+-They wonder you your GitHub username and password: Enter them.
+
+-The new file and commit are in !!
+
+
